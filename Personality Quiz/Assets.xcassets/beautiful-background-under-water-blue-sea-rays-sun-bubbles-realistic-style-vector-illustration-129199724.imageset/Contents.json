@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "beautiful-background-under-water-blue-sea-rays-sun-bubbles-realistic-style-vector-illustration-129199724.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
